@@ -1,6 +1,6 @@
 ---
 name: flow-short-video
-description: 用 AI 畫角色、場景與分鏡、Google Flow（Omni 1.2）生成影片、ffmpeg 剪接加字幕，做出有中文旁白和台詞的短片（一段約 6 鏡；有台詞的段剪出來約 30 秒、約 30～40 點 Flow 點數）。使用者說「做短片／動畫短片／繪本動畫」「把故事做成影片或動畫」「用 Google Flow 做影片」「Flow 點數不要浪費」「三隻小豬動畫」時使用。Make short videos (any non-photorealistic style) with Mandarin narration and dialogue: character and scene sheets, Flow characters with bound voices, a fixed narrator voice, storyboard, first-frame keyframes, Google Flow prompts, QA with language detection, free 720p upscale, subtitle editing, joining segments into a full film and a phone version.
+description: "用 AI 畫角色、場景與分鏡、Google Flow（Omni 1.2）生成影片、ffmpeg 剪接加字幕，做出有中文旁白和台詞的短片（一段約 6 鏡；有台詞的段剪出來約 30 秒、約 30～40 點 Flow 點數）。使用者說「做短片／動畫短片／繪本動畫」「把故事做成影片或動畫」「用 Google Flow 做影片」「Flow 點數不要浪費」「三隻小豬動畫」時使用。Make short videos (any non-photorealistic style) with Mandarin narration and dialogue: character and scene sheets, Flow characters with bound voices, a fixed narrator voice, storyboard, first-frame keyframes, Google Flow prompts, QA with language detection, free 720p upscale, subtitle editing, joining segments into a full film and a phone version."
 ---
 
 # 短片工作流（Google Flow）
