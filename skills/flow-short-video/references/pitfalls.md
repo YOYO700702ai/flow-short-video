@@ -16,6 +16,7 @@
 | 角色該越走越遠，卻沿著畫面橫走 | 第一格就讓路往畫面深處延伸，提示詞寫 `walk away into the distance, getting smaller`（建議做法） |
 | 火、燈、門自己改變狀態（故事還沒生火，壁爐就有火） | 提示詞寫死現在的狀態：`the fireplace stays cold and unlit, no fire at all`，Sound design 也不要寫會讓它改變的聲音（例如 crackle）（建議做法），重跑那一鏡 |
 | 畫面裡多出東西 | 先重跑一次那一鏡 |
+| 角色的衣服和設定不一樣 | 剪掉那幾格，或只重跑那一鏡 |
 | Flow 自己剪成好幾個鏡頭 | 開頭寫 `In a single continuous shot, no scene cuts.` |
 | 自己加了配樂、字幕 | 結尾寫 `No music. No subtitles. No on-screen text.` |
 | 同一個提示詞，這次結果和上次不一樣 | 影片生成本來就有不確定性。一起看、討論哪裡要改、只重跑那一鏡 |
